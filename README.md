@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/franccesco-bloomy-mcp-badge.png)](https://mseep.ai/app/franccesco-bloomy-mcp)
+
 # Bloomy MCP
 
 A Model Context Protocol (MCP) server for interacting with Bloom Growth's GraphQL API.
